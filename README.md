@@ -1,6 +1,6 @@
 # Oiii! Sou a Sophia Franco de Godoy!
 - Sou graduanda em Engenharia de Software na Universidade PUC Campinas;
-- Tenho experiência em desenvolvimento de software (Python, Banco de Dados Oracle, Scilab, ProjectLibre, Trello);
+- Tenho experiência em desenvolvimento de software (Python, C/C++, Banco de Dados Oracle, Scilab, ProjectLibre, Trello);
 - Atualmente desenvolvendo minhas habilidades de inglês avançado na Cultura Inglesa;
 - Trabalho com filantropia (Filhas de Jó) e monitoria/recreação no Buffet Mundo da Lua;
 - Tenho facilidade em trabalho em grupo e relacionamento interpessoal;
