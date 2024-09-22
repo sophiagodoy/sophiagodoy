@@ -1,0 +1,7 @@
+# Forçar o GitHub a reconhecer os arquivos Python
+*.py linguist-language=Python
+
+# Forçar o GitHub a reconhecer os arquivos C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.hpp linguist-language=C++
