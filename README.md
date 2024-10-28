@@ -1,11 +1,11 @@
-# Oiii! Sou a Sophia Franco de Godoy!
-- Sou graduanda em Engenharia de Software na Universidade PUC Campinas;
-- Tenho experiência em desenvolvimento de software (Python, C/C++, Banco de Dados Oracle, Scilab, ProjectLibre, Trello);
-- Atualmente desenvolvendo minhas habilidades de inglês avançado na Cultura Inglesa;
-- Pratico filantropia (Filhas de Jó) e trabalho com monitoria/recreação no Buffet Mundo da Lua;
-- Tenho facilidade em trabalho em grupo e relacionamento interpessoal;
-- Sou apaixonada em aprender coisas novas e estou sempre pronta para enfrentar novos desafios.
-
+# Hi! I'm Sophia Franco de Godoy!
+- I'm Sophia Franco de Godoy, a Software Engineering undergraduate at PUC Campinas;
+- I have experience in software development (Python, C/C++, Oracle Database, Scilab, ProjectLibre, Trello);
+- Currently, I'm advancing my English skills at Cultura Inglesa;
+- I'm involved in philanthropy through the Order of Job's Daughters and work in monitoring and recreation at Buffet Mundo da Lua;
+- I have strong skills in teamwork and interpersonal relations;
+- I'm passionate about learning new things and always ready to face new challenges.
+  
  <div>
   <a href="https://github.com/sophiagodoy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophiagodoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
