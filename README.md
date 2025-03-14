@@ -19,7 +19,11 @@
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
  <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
  <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
-          
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  
 </div>
       
 ##
