@@ -67,3 +67,7 @@
     <img src="https://img.shields.io/badge/Gravatar-ff99cc?style=for-the-badge&logo=gravatar&logoColor=white" target="_blank">
   </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/sophiagodoy/sophiagodoy/output/snake.svg" alt="Snake animation" />
+
+###
