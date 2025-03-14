@@ -1,4 +1,5 @@
-# Hello World! I'm **Sophia Franco de Godoy** 🌸  
+<h1 align="center">Hello World! I'm <strong>Sophia Franco de Godoy</strong> 🌸</h1>  
+
 
 🎓 Software Engineering Undergraduate at PUC Campinas  
 🚀 Developing my startup at PUC Campinas through the Cria 1 program  
@@ -9,7 +10,8 @@
 
 ---
 
-## GitHub Stats  
+<h2 align="center"> GitHub Stats</h2>
+
 
 <div align="center">
   <a href="https://github.com/sophiagodoy">
@@ -20,7 +22,8 @@
 
 ---
 
-## Technologies & Tools  
+<h2 align="center"> Technologies & Tools</h2>
+
 
 ### **Design & Development**  
 <div style="display: inline_block"><br>
@@ -54,7 +57,7 @@
 
 ---
 
-## Connect with me 💖  
+<h2 align="center">💖 Connect with me</h2>
 
 <div align="center"> 
   <a href="mailto:sophiagodoy.profisisonal@gmail.com">
