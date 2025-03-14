@@ -1,33 +1,69 @@
-# Hi! I'm Sophia Franco de Godoy!
-- I'm Sophia Franco de Godoy, a Software Engineering undergraduate at PUC Campinas;
-- I have experience in software development (Python, C/C++, Oracle Database, Scilab, ProjectLibre, Trello);
-- Currently, I'm advancing my English skills at Cultura Inglesa;
-- I'm involved in philanthropy through the Order of Job's Daughters and work in monitoring and recreation at Buffet Mundo da Lua;
-- I have strong skills in teamwork and interpersonal relations;
-- I'm passionate about learning new things and always ready to face new challenges.
-  
- <div>
+# Hello World! I'm **Sophia Franco de Godoy** 🌸  
+
+🎓 Software Engineering Undergraduate at PUC Campinas  
+🚀 Developing my startup at PUC Campinas through the Cria 1 program  
+🌍 English Journey: Completed Basic Level at In Touch, Intermediate Level at Cultura Inglesa, and currently practicing for Advanced English  
+❤️ Active in philanthropy through the Order of Job’s Daughters  
+🎉 Experience in monitoring & recreation at Buffet Mundo da Lua  
+🤝 Passionate about teamwork, learning, and embracing new challenges  
+
+---
+
+## GitHub Stats  
+
+<div align="center">
   <a href="https://github.com/sophiagodoy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophiagodoy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiagodoy&layout=compact&langs_count=16&theme=dracula"/>         
-   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophiagodoy&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiagodoy&layout=compact&langs_count=16&theme=rose_pine"/>
+  </a>
 </div>
 
+---
+
+## Technologies & Tools  
+
+### **Design & Development**  
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
- <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
- <img align="center" alt="Rafa-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  
+  <img align="center" alt="Android Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
-      
-##
- 
-<div> 
-  <a href = "mailto:sophiagodoy.profisisonal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/sophia-franco-de-godoy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+### **Programming Languages**  
+<div style="display: inline_block"><br>
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+</div>
+
+### **Databases & Backend**  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+
+</div>
+
+### **Project Management & API Tools**  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  <img align="center" alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+</div>
+
+---
+
+## Connect with me 💖  
+
+<div align="center"> 
+  <a href="mailto:sophiagodoy.profisisonal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/sophia-franco-de-godoy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff66a3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://gravatar.com/sophiafrancodegodoy" target="_blank">
+    <img src="https://img.shields.io/badge/Gravatar-ff99cc?style=for-the-badge&logo=gravatar&logoColor=white" target="_blank">
+  </a>
+</div>
