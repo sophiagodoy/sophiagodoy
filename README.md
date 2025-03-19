@@ -52,7 +52,7 @@
 ### **Project Management & API Tools**  
 <div style="display: inline_block"><br>
   <img align="center" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-  <img align="center" alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img align="center" alt="Canva" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   <img align="center" alt="Postman" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
 </div>
 
