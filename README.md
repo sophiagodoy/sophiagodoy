@@ -1,12 +1,11 @@
 <h1 align="center">Hello World! I'm <strong>Sophia Franco de Godoy</strong> 🌸</h1>  
 
-
-🎓 Software Engineering Undergraduate at PUC Campinas  
-🚀 Developing my startup at PUC Campinas through the Cria 1 program  
-🌍 English Journey: Completed Basic Level at In Touch, Intermediate Level at Cultura Inglesa, and currently practicing for Advanced English  
-❤️ Active in philanthropy through the Order of Job’s Daughters  
-🎉 Experience in monitoring & recreation at Buffet Mundo da Lua  
-🤝 Passionate about teamwork, learning, and embracing new challenges  
+- Undergraduate student in **Software Engineering** at **PUC Campinas** (2024–2027)  
+- Co-founder of the startup **Collae**  
+- Active member of the **International Order of Job’s Daughters**  
+- Intermediate English  
+- Strong teamwork and interpersonal skills  
+- Passionate about continuous learning and always ready to embrace new challenges
 
 ---
 
