@@ -18,21 +18,30 @@
 
 <h2 align="center">Technologies & Tools</h2>
 
-**IDEs e Ferramentas de Desenvolvimento:** Android Studio, Visual Studio Code, Figma
+**IDEs e Ferramentas de Desenvolvimento:**
+`Android Studio` | `Visual Studio Code` | `Figma`
 
-**Linguagens de Programação:** TypeScript, C/C++, Python, Kotlin, HTML/CSS, Java, Cypher, SQLDeveloper
+**Linguagens de Programação:**
+`TypeScript` | `C/C++` | `Python` | `Kotlin` | `HTML/CSS` | `Java` | `Cypher` | `SQLDeveloper`
 
-**Frameworks e Bibliotecas:** Node.js, Firebase, Jetpack Compose
+**Frameworks e Bibliotecas:**
+`Node.js` | `Firebase` | `Jetpack Compose`
 
-**Bancos de Dados:** Oracle, MySQL, Mongo, Neo4j
+**Bancos de Dados:**
+`Oracle` | `MySQL` | `Mongo` | `Neo4j`
 
-**Metodologias e Modelagem de Processos:** Scrum, BrModelo, BPMN
+**Metodologias e Modelagem de Processos:**
+`Scrum` | `BrModelo` | `BPMN`
 
-**Gerenciamento e Colaboração:** Trello, Miro, Project Libre, Postman, GitHub, Git, Bizagi, Canva
+**Gerenciamento e Colaboração:**
+`Trello` | `Miro` | `Project Libre` | `Postman` | `GitHub` | `Git` | `Bizagi` | `Canva`
 
-**Ferramentas de Inteligência Artificial:** ChatGPT, Gemini, Copilot, Blackbox
+**Ferramentas de Inteligência Artificial:**
+`ChatGPT` | `Gemini` | `Copilot` | `Blackbox`
 
-**Pacote Office e G Suite:** Word, Excel, PowerPoint, Outlook, OneNote, OneDrive, Teams, Gmail, Docs, Sheets, Slides, Drive, Forms, Meet, Calendar
+**Pacote Office e G Suite:**
+`Word` | `Excel` | `PowerPoint` | `Outlook` | `OneNote` | `OneDrive` | `Teams` | `Gmail` | `Docs` | `Sheets` | `Slides` | `Drive` | `Forms` | `Meet` | `Calendar`
+
 
 <h2 align="center">💖 Connect with me</h2>
 
