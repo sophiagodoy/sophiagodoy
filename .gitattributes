@@ -5,3 +5,10 @@
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 *.hpp linguist-language=C++
+
+# Forçar o GitHub a reconhecer arquivos Cypher
+*.cypher linguist-language=Cypher
+*.cql linguist-language=Cypher
+
+# (opcional) se você tiver scripts Cypher dentro de .txt ou outra extensão
+*.txt linguist-language=Cypher
