@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm <strong>Sophia Franco de Godoy</strong> 🌸</h1>
 
 - Undergraduate student in **Software Engineering** at **PUC Campinas** (2024–2027)
-- Co-founder of the startup **Collae**
+- Co-founder of the startup **Collae** (PUC Campinas – Aceleration Program - Cria I and Cria II)
 - Active member of the **International Order of Job’s Daughters**
 - Intermediate English
 - Strong teamwork and interpersonal skills
