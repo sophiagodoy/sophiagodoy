@@ -101,9 +101,6 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
   <a href="https://www.linkedin.com/in/sophia-franco-de-godoy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff66a3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://gravatar.com/sophiafrancodegodoy" target="_blank">
-    <img src="https://img.shields.io/badge/Gravatar-ff99cc?style=for-the-badge&logo=gravatar&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <img src="https://raw.githubusercontent.com/sophiagodoy/sophiagodoy/output/snake.svg" alt="Snake animation" />
