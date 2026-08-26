@@ -46,9 +46,6 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
 **Management & Collaboration:**
 `Trello` | `Miro` | `Project Libre` | `Postman` | `GitHub` | `Git` | `Bizagi` | `Canva` | `Astah`
 
-**Artificial Intelligence Tools:**
-`ChatGPT` | `Gemini` | `Copilot` | `Blackbox` | `Google Colab`
-
 **Productivity & Collaboration:** Pacote Office & Google Workspace 
 
 <h2 align="center">🌐 Languages</h2>
