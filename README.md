@@ -1,11 +1,5 @@
 <h1 align="center">Hello World! I'm <strong>Sophia Franco de Godoy</strong> 🌸</h1>
-
-- Undergraduate student in **Software Engineering** at **PUC Campinas** (2024–2027)
-- Co-founder of the startup **Collae** (PUC Campinas – Aceleration Program - Cria I and Cria II)
-- Active member of the **International Order of Job’s Daughters**
-- Intermediate English
-- Strong teamwork and interpersonal skills
-- Passionate about continuous learning and always ready to embrace new challenges
+Software Engineering student at PUC Campinas, passionate about building tech solutions that create real impact. Currently in an AI Residency (with scholarship) at Instituto Eldorado, with hands-on experience cofounding a startup and developing Android and web applications. Always looking to learn, collaborate, and take on new challenges.
 
 <h2 align="center"> GitHub Stats</h2>
 
@@ -16,31 +10,52 @@
   </a>
 </div>
 
+<h2 align="center">🎓 Education</h2>
+
+**Bachelor's in Software Engineering**
+Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2027 *(expected)*
+
+
+<h2 align="center">💼 Professional Experience</h2>
+
+**Cofounder | Collae** - Mescla Hub, PUC Campinas (Nov/2023 – Nov/2025)
+
+- Structured the business model and defined MVP features
+- Planned and ran user tests to validate hypotheses
+- Built pitches and technical project documentation
+- Applied agile methodologies (Scrum, Kanban) and strategy tools (SWOT, Business Model Canvas, Design Thinking)
+
+
 <h2 align="center">Technologies & Tools</h2>
 
-**IDEs e Ferramentas de Desenvolvimento:**
+**IDEs & Development Tools:**
 `Android Studio` | `Visual Studio Code` | `Figma`
 
-**Linguagens de Programação:**
+**Programming Languages:**
 `TypeScript` | `C/C++` | `Python` | `Kotlin` | `HTML/CSS` | `Java` | `Cypher` | `SQLDeveloper`
 
-**Frameworks e Bibliotecas:**
+**Frameworks & Libraries:**
 `Node.js` | `Firebase` | `Jetpack Compose` | `Django`
 
-**Bancos de Dados:**
-`Oracle` | `MySQL` | `Mongo` | `Neo4j` | `Redis`
+**Databases:**
+`Oracle` | `MySQL` | `MongoDB` | `Neo4j` | `Redis`
 
-**Metodologias e Modelagem de Processos:**
+**Methodologies & Process Modeling:**
 `Scrum` | `Kanban` | `BrModelo` | `BPMN` | `SWOT` | `Business Model Canvas` | `Design Thinking`
 
-**Gerenciamento e Colaboração:**
+**Management & Collaboration:**
 `Trello` | `Miro` | `Project Libre` | `Postman` | `GitHub` | `Git` | `Bizagi` | `Canva` | `Astah`
 
-**Ferramentas de Inteligência Artificial:**
+**Artificial Intelligence Tools:**
 `ChatGPT` | `Gemini` | `Copilot` | `Blackbox` | `Google Colab`
 
-**Pacote Office e G Suite:**
-`Word` | `Excel` | `PowerPoint` | `Outlook` | `OneNote` | `OneDrive` | `Teams` | `Gmail` | `Docs` | `Sheets` | `Slides` | `Drive` | `Forms` | `Meet` | `Calendar`
+**Productivity & Collaboration:** Pacote Office & Google Workspace 
+
+<h2 align="center">🌐 Languages</h2>
+
+- **Portuguese** - Native
+- **English** - Intermediate
+
 
 <h2 align="center"> ✨ Extracurricular Activities </h2>
 
@@ -58,6 +73,15 @@
 - **CRIA I** - Startup Pre-Acceleration Program (2025, 24h)
 - **CRIA II** - Startup Acceleration Program (2025, 56h)
 
+<h2 align="center">🎓 Courses & Professional Development</h2>
+
+- **AI Residency** - Instituto Eldorado & PUC Campinas (2026, 8 months, 640h, with scholarship)
+- **Embedded Systems Technology Residency** - EmbarcaTech (2024/2025, 160h)
+- **Introduction to Cybersecurity Track** - PUC Campinas (2025)
+
+📄 More certificates on [LinkedIn](https://www.linkedin.com/in/sophia-franco-de-godoy/)
+
+
 <h2 align="center">📖 Publications </h2>
 
 - **Tecnologias Digitais na Educação: Dos limites às possibilidades** – Vol. 7, Editora Bagai (2024), pages 213–224 · [Read here](https://is.gd/NUnFAP)
@@ -65,7 +89,7 @@
 <h2 align="center">💖 Connect with me</h2>
 
 <div align="center">
-  <a href="mailto:sophiagodoy.profisisonal@gmail.com">
+  <a href="mailto:sophiafdgodoy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/sophia-franco-de-godoy/" target="_blank">
