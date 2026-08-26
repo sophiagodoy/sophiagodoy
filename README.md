@@ -26,6 +26,14 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
 - Applied agile methodologies (Scrum, Kanban) and strategy tools (SWOT, Business Model Canvas, Design Thinking)
 
 
+<h2 align="center">🚧 Featured Projects</h2>
+
+- **SuperID** - Android app for secure credential management with passwordless authentication via QR Code (Kotlin, Android Studio, Firebase)
+- **Intelimed** - Android app for post-operative follow-up, enabling contact between patients and doctors (Kotlin, Firebase, MongoDB, Java server for chat)
+- **GoodFilms** - Web application for movie management and recommendations, featuring an AI-based recommendation system and database integration (Python, Django, MySQL, Docker, JavaScript, Redis)
+- **Product Registration System** - System for registering products with encrypted descriptions (Python, Oracle)
+
+
 <h2 align="center">Technologies & Tools</h2>
 
 **IDEs & Development Tools:**
@@ -38,7 +46,7 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
 `Node.js` | `Firebase` | `Jetpack Compose` | `Django`
 
 **Databases:**
-`Oracle` | `MySQL` | `MongoDB` | `Neo4j` | `Redis`
+`Oracle` | `MySQL` | `Mongo` | `Neo4j` | `Redis`
 
 **Methodologies & Process Modeling:**
 `Scrum` | `Kanban` | `BrModelo` | `BPMN` | `SWOT` | `Business Model Canvas` | `Design Thinking`
@@ -47,6 +55,7 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
 `Trello` | `Miro` | `Project Libre` | `Postman` | `GitHub` | `Git` | `Bizagi` | `Canva` | `Astah`
 
 **Productivity & Collaboration:** Pacote Office & Google Workspace 
+
 
 <h2 align="center">🌐 Languages</h2>
 
@@ -86,7 +95,7 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
 <h2 align="center">💖 Connect with me</h2>
 
 <div align="center">
-  <a href="mailto:sophiafdgodoy@gmail.com">
+  <a href="mailto:sophiagodoy.profisisonal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/sophia-franco-de-godoy/" target="_blank">
