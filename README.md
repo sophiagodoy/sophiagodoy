@@ -26,15 +26,15 @@ Pontifícia Universidade Católica de Campinas (PUC Campinas) - Jan/2024 - Dec/2
 - Applied agile methodologies (Scrum, Kanban) and strategy tools (SWOT, Business Model Canvas, Design Thinking)
 
 
-<h2 align="center">🚧 Featured Projects</h2>
+<h2 align="center">💻 Featured Projects</h2>
 
-- **SuperID** - Android app for secure credential management with passwordless authentication via QR Code (Kotlin, Android Studio, Firebase)
-- **Intelimed** - Android app for post-operative follow-up, enabling contact between patients and doctors (Kotlin, Firebase, MongoDB, Java server for chat)
-- **GoodFilms** - Web application for movie management and recommendations, featuring an AI-based recommendation system and database integration (Python, Django, MySQL, Docker, JavaScript, Redis)
-- **Product Registration System** - System for registering products with encrypted descriptions (Python, Oracle)
+* **[SuperID](https://github.com/sophiagodoy/SuperID)** - Android app for secure credential management with passwordless authentication via QR Code (Kotlin, Android Studio, Firebase)
+* **[Intelimed](https://github.com/sophiagodoy/Intelimed)** - Android app for post-operative follow-up, enabling contact between patients and doctors (Kotlin, Firebase, MongoDB, Java server for chat)
+* **[GoodFilms](https://github.com/sophiagodoy/good-films)** - Web application for movie management and recommendations, featuring an AI-based recommendation system and database integration (Python, Django, MySQL, Docker, JavaScript, Redis)
+* **[Product Registration System](https://github.com/sophiagodoy/product-registration-system)** - System for registering products with encrypted descriptions (Python, Oracle)
 
 
-<h2 align="center">Technologies & Tools</h2>
+<h2 align="center"> 🛠️ Technologies & Tools</h2>
 
 **IDEs & Development Tools:**
 `Android Studio` | `Visual Studio Code` | `Figma`
